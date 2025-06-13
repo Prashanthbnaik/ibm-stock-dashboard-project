@@ -26,7 +26,7 @@ This project analyzes historical stock prices and revenue data for **Tesla** and
 3. Run the cells sequentially to extract data and generate graphs
 
 ## 🔗 Live Notebook
-If you’re viewing this for grading, you can open the notebook directly [here]().
+If you’re viewing this for grading, you can open the notebook directly [here](https://github.com/Prashanthbnaik/ibm-stock-dashboard-project/blob/main/Analyzing_Stock_Revenue_Dashboard.ipynb).
 
 ---
 
